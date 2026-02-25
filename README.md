@@ -2,7 +2,7 @@
 
 Free Personality Discovery from Your Favorite Things
 
-<img width="1600" height="901" alt="deja" src="https://github.com/user-attachments/assets/0ffcaa83-a004-49e6-8102-642b98ee98f6" />
+<img width="1920" height="1080" alt="deja" src="https://github.com/user-attachments/assets/691186ac-314a-47d1-b512-31ed5afaf0f7" />
 
 Deja is a free personality discovery service that creates your personal manual from the things you love. By selecting cards across music, movies, games, books, and more, you get a quick and clear result that describes your type and suggests recommendations tailored to you. Explore Deja at [wedeja.com](https://wedeja.com/).
 
